@@ -1,0 +1,7 @@
+{
+    "version": "1.0.20",
+    "files": [
+        "server.lua",
+        "bot.json"
+    ]
+}
